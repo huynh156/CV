@@ -15,11 +15,14 @@
   font-variant: normal;
   text-rendering: auto;
   line-height: 1; }
-
+.fa-solid fa-language{
+    font-size:1em;
+}
 .fa-lg {
-  font-size: 1.33333em;
-  line-height: 0.75em;
-  vertical-align: -.0667em; }
+    font-size: 1.33333em;
+    line-height: 0.75em;
+    vertical-align: -.0667em;
+}
 
 .fa-xs {
   font-size: .75em; }
